@@ -1,2 +1,1 @@
-# Capstone_Data_Pre_Processing
-Pre-Processing file to manipulate data set of Capstone project
+Download the file and open in Jupyter notebook to see the code.
